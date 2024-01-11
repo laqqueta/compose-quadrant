@@ -50,9 +50,6 @@ fun Quadrant() {
             modifier = Modifier.weight(1F))
         QuadrantRow(loopInit = 2, loopEnd = 3,
             modifier = Modifier.weight(1F))
-        QuadrantRow(loopInit = 2, loopEnd = 3,
-            modifier = Modifier.weight(1F))
-
     }
 }
 
